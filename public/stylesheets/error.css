@@ -1,0 +1,39 @@
+.footballimage{
+    height: 729px;
+    width: 1536px;
+    position: absolute;
+    top:0px;
+    left: 0px;
+    
+}
+/* .text-container {
+    position: absolute;
+    color: rgb(255, 255, 255);
+    left: 18rem;
+    top: 2rem;
+    background-color: rgb(41, 41, 41, 0.8);
+    padding: 0 1rem;
+} */
+.first4{
+    position: absolute;
+    color: black;
+    top:-50px;
+    left:550px;
+    font-size: 350px;
+    
+}
+.second4{
+    position: absolute;
+    color: black;
+    top:-50px;
+    left:1080px;
+    font-size: 350px;
+    
+}
+.comment{
+    color: rgb(255, 255, 255);
+    top:600px;
+    position: absolute;
+    left:500px;
+    font-size: 50px;
+}

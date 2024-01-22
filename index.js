@@ -19,5 +19,8 @@ app.get("/chelsea",function(req,res){
 app.get("/newcastel",function(req,res){
     res.render("newcastel");
 })
+app.get("*",function(req,res){
+    res.render("error");
+})
 
 app.listen(3000);
