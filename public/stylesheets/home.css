@@ -1,0 +1,25 @@
+.heading{
+    display:flex;
+    justify-content: center;
+}
+.mancitylogo{
+    height:300px;
+    width:250px;
+}
+.liverpoollogo{
+    height:270px;
+    width:300px;
+   
+}
+.firstrow{
+    display:flex;
+    justify-content: space-evenly;
+}
+.newcastellogo{
+    height: 250px;
+    width: 250px;
+}
+.chelsealogo{
+    height: 310px;
+    width: 300px;
+}
